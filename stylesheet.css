@@ -1,0 +1,66 @@
+<style type="text/css">
+<!--
+*.team0 {
+width:80px;
+height:40px;
+text-align:center;
+font-size:12px;
+}
+*.number {
+text-align:right;
+}
+*.team {
+height:40px;
+font-size:14px;
+}
+*.t_name {
+margin:4px 4px 4px 4px;
+}
+*.result {
+text-align:center;
+font-size:12px;
+}
+*.blank_box {
+background-color:#cccccc;
+}
+*.goals {
+width:20px;
+}
+*.points {
+width:36px;
+text-align:center;
+font-size:10px;
+}
+*.p_cont {
+text-align:right;
+}
+td.p_wp {
+text-align:right;
+}
+span.p_wp {
+color:#3333ff;
+}
+*.p_gs {
+text-align:right;
+}
+td.p_rank {
+text-align:right;
+background-color:#666666;
+}
+span.p_rank {
+color:#ffffff;
+font-weight:bold;
+}
+table {
+border: 1px solid;
+border-collapse: collapse;
+empty-cells: show;
+}
+tr {
+border: 1px solid;
+}
+td {
+border: 1px solid;
+}
+-->
+</style>
