@@ -30,19 +30,19 @@ text-align:center;
 font-size:10px;
 }
 *.p_cont {
-text-align:right;
+text-align:center;
 }
 td.p_wp {
-text-align:right;
+text-align:center;
 }
 span.p_wp {
 color:#3333ff;
 }
 *.p_gs {
-text-align:right;
+text-align:center;
 }
 td.p_rank {
-text-align:right;
+text-align:center;
 background-color:#666666;
 }
 span.p_rank {
